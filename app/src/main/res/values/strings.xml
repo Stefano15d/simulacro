@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DAM_daniel_venturi</string>
+    <string name="text_Apellidos_Nombre">Apellidos y Nombre</string>
+    <string name="text_email">Correo Electrónico</string>
+    <string name="text_clave">Clave</string>
+    <string name="text_nacimiento">Fecha de Nacimiento</string>
+    <string name="text_carrera">Carrera</string>
+    <string name="text_convocatoria">Por qué medio se enteró de la convocatoria?</string>
+    <string name="radiobutton_sistemas">ingenieria de sistemas</string>
+    <string name="radiobutton_ambiental">Ingeniería Ambiental</string>
+    <string name="radiobutton_mecanica">Ingeniería Mecánica</string>
+    <string name="radiobutton_admi">Administración</string>
+    <string name="checkbox_Radio">Radio</string>
+    <string name="checkbox_Internet">Internet</string>
+    <string name="checkbox_Publicidad">Publicidad</string>
+    <string name="checkbox_amigo" />
+    <string name="checkbox_Amigo">Amigo</string>
+    <string name="jol">Enviar</string>
+    <string name="buttonSnackBar">Snack Bar</string>
+    <string name="ddfsdf">Botón 1</string>
+    <string name="button_primero">Enviar</string>
+</resources>
